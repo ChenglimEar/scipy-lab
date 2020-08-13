@@ -1,6 +1,6 @@
 # Scipy Laboratory
 
-This is a local Scikit-learn and Pytorch laboratory implemented using Docker containers.  It is used for testing out Scikit-learn and pytorch.
+This is a local Scikit-learn and Pytorch laboratory implemented using Docker containers.  It is used for testing out Scikit-learn and Pytorch.
 
 To take it for a test drive, simply follow the steps below.
 
