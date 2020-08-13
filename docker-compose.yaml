@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  jupyter:
+    image: chenglim/scipy-base:latest
+    build: .
+    environment:
+      JUPYTER_ENABLE_LAB: 'yes'
+    ports:
+      - 8888:8888
+    volumes:
+      - ./resources/projects:/home/jovyan
