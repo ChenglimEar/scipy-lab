@@ -26,7 +26,7 @@ docker-compose up
 
 ## STEP 4
 
-Log into the Jupyter server by going to http://127.0.0.1/token=localuser.
+Log into the Jupyter server by going to [http://127.0.0.1/token=localuseronly].
 
 ## STEP 5
 
